@@ -194,7 +194,7 @@
 :itanium: https://es.wikipedia.org/wiki/Intel_Itanium[Intel Itanium]
 
 // Ejemplos
-:ejemplos_branch: master
+:ejemplos_branch: so2021
 :ejemplos_repo: https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos/tree/{ejemplos_branch}[ull-esit-sistemas-operativos/ssoo-ejemplos]
 :anom_shared_memory_cpp: https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos/blob/{ejemplos_branch}/src/cap11/anom-shared-memory.cpp[anom-shared-memory.cpp]
 :syscall_s: https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos/blob/{ejemplos_branch}/src/cap06/syscall.s[syscalls.s]
